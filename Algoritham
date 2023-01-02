@@ -1,0 +1,5 @@
+1) split the string
+2) loop the split string to the length
+3) store the character and it's count in object
+4) then loop the object
+5)store max count and character in new variable and return it
